@@ -1,8 +1,8 @@
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!                              !
-#!!!!!!!!!!!!!!     Written By Jay Clayton for the purposes of obtaining a positon of Application Architect             !!!!!!!!!!!!!!!!                              !
-#!!!!!!!!!!!!!!     this file contains instructions to install and run the Elixer code challenge test application       !!!!!!!!!!!!!!!!                              !
-#!!!!!!!!!!!!!!     please see below                                                                                    !!!!!!!!!!!!!!!!                              !
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!                              !
+
+Written By Jay Clayton for the purposes of obtaining a positon of Application Architect 
+     this file contains instructions to install and run the Elixer code challenge test application       
+    please see below                                                                                    
+
 
 
 
