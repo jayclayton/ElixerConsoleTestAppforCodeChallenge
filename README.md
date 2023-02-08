@@ -44,12 +44,18 @@ Design Considerations:
     decided on that because I did not want to muddy the waters by creating a relational database for essentially a static file storage
     plus, I needed   
   
-  To install, you will need to download the folder ElixerCodeChallenge from this repo to your desktop.
-  Then doubleclick on the powershell install script
+  To install, you will need to download the folder codechallengeinstall from this repo to your desktop.
+  
+  open powershell as an admin, navigate to the new directory, and run the install script directly by typeing .\powershellInstall.ps1"
     the script will:
-      create a directory called: ?????? on the c: drive
+      create a directory called: ElixerConsoleTestAppforCodeChallenge on the c: drive
       create permissions for that folder for everyone to use it
-      copy the application folder an all of its contents to that folder
-      create a desktop shortcut to the application
+      copy the application folder adn all of its contents to that folder
       
- To run  the application, doubleclick on the newly created desktop shortcut
+      
+ To run  the application, navigate to the newly created folder on the c: drive 
+ open the "applicationfolder" folder  
+ 
+ doubleclick on the temporaryElixerConsoleApp.exe application
+ 
+ 
