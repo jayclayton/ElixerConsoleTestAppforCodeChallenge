@@ -1,3 +1,12 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!     Written By Jay Clayton for the purposes of obtaining a positon of Application Architect             !!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!     this file contains instructions to install and run the Elixer code challenge test application       !!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!     please see below                                                                                    !!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
 # ElixerConsoleTestAppforCodeChallenge
 Coding Exercise – Security Questions
 Using Visual Studio and c#, build a console app that stores answers to security question for a specified person.  It has the following flows :
@@ -28,3 +37,16 @@ Design Considerations:
   Basic Design is a series of nested loops
   please see .pdf for a diagram
   
+  persistent storage is in the form of a json file with the username as the filename:
+    decided on that because I did not want to muddy the waters by creating a relational database for essentially a static file storage
+    plus, I needed   
+  
+  To install, you will need to download the folder ElixerCodeChallenge from this repo to your desktop.
+  Then doubleclick on the powershell install script
+    the script will:
+      create a directory called: ?????? on the c: drive
+      create permissions for that folder for everyone to use it
+      copy the application folder an all of its contents to that folder
+      create a desktop shortcut to the application
+      
+ To run  the application, doubleclick on the newly created desktop shortcut
